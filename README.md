@@ -12,8 +12,11 @@ This program asks for users item, price, and quality, and prints the receipt
 
 ## Example Output
 Enter item name: Milk
+
 Enter price: 3.49
+
 Enter quantity: 2
+
 Receipt saved!
 
 ## Author
