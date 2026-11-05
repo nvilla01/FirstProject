@@ -7,7 +7,7 @@ This program asks for users item, price, and quality, and prints the receipt
 
 ## How to Run
 Ask the user for item name, price, and quantity
-' ' ' java
+'''java
         // Example:
         // Item: Milk
         // Price: 3.49
