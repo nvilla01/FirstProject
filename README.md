@@ -19,3 +19,6 @@ Grade: B
 Natalie Villa
 
 Great explanation this is better than mine. Edit added by Yasel Rodriguez
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Yasel Rodriguez on GitHub.
