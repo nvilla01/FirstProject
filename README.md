@@ -6,8 +6,8 @@ Project for collaboration
 This program asks for users item, price, and quality, and prints the receipt
 
 ## How to Run
+Ask the user for item name, price, and quantity
 ' ' ' java
-// TODO A1: Ask the user for item name, price, and quantity
         // Example:
         // Item: Milk
         // Price: 3.49
