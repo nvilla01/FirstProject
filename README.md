@@ -11,9 +11,10 @@ This program asks for users item, price, and quality, and prints the receipt
 3. View the calculated total and receipt.
 
 ## Example Output
-Student: Alex  
-Average: 88.5  
-Grade: B
+Enter item name: Milk
+Enter price: 3.49
+Enter quantity: 2
+Receipt saved!
 
 ## Author
 Natalie Villa
