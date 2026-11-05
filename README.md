@@ -20,7 +20,7 @@ Ask the user for item name, price, and quantity
 
         System.out.println("Enter quantity: ");
         int quantity = sc.nextInt();
-```java
+```
 
 ## Example Output
 Enter item name: Milk
